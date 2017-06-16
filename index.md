@@ -1,15 +1,13 @@
 ---
 layout: default
 ---
+## Page Under development
 
 ## About Me
 
-<!--<img class="profile-picture" src="sherlock.jpg">-->
 <img class="profile-picture" src="yaseen.jpg">
 
 Hi! I am Muhammad Yaseen, currently working as Machine Learning Engineer for PureVPN. I hold a B.E. in Computer and Information Systems from NED University, Karachi.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 ## Research Interest
 
@@ -69,8 +67,16 @@ Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nu
 
 ## Research Experience
 
-* RCAI.pk Pakistan
-* DFKI Germany
+### Research Center for Artificial Intelligence, NED, Karachi Pakistan
+
+---
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis.
+
+### Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI), Kaiserslautern, Germany
+
+---
+Internship supervisor: Andreas Dengel (link), Saqib Bukhari (link)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis.
 
 ## Online Courses and Certifications
 
@@ -85,11 +91,13 @@ Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nu
 * Reinforcement learning
 * RNN in Python
 
-## Online Lectures I like
+## Online Lectures/Blogs I like
 
 * nando de frietas
 * rl david silver
 * pgm stanford
+* colah
+* karpathy
 
 ## Honors and Awards
 
@@ -98,14 +106,19 @@ Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nu
 * Honor 1
 * Award C
 * Honor 2
+(participation in expo)
 
 ## Other Interests
 
 * History, Literature, Philosophy
 * Gaming, Writing, Travelling
 
-## References
+## Programming Lang. and other skills
 
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* pl 1
+* pl 2
+* spark,hive etc.
+
+
 
 
