@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-## Page Under development
+## Page Under development -root
 
 ## About Me
 
@@ -30,9 +30,6 @@ Year | Award | Category
 2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
 2014 | Satellite | Won Best Actor miniseries or television film
 
-Here is a horizontal rule
-
----
 
 Here is a blockquote
 
@@ -101,12 +98,13 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 ## Honors and Awards
 
-* Award A
-* Award B
+* Award A/hamdard scholarship
+* Award B/bsek award/biek pos.
 * Honor 1
 * Award C
 * Honor 2
 (participation in expo)
+(link to different slideshare presentations? or can add those links in relevant sections with project details)
 
 ## Other Interests
 
@@ -119,6 +117,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 * pl 2
 * spark,hive etc.
 
+## contact details
+
+* email
 
 
 
