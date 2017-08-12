@@ -158,14 +158,14 @@ Oximeter [link](http://rcai.pk/ResearchCenterAI/project/p8.html)
 
 I believe in self-learning yada yada
 
-* Machine Learning by Andrew Ng [(link)](https://www.coursera.org/learn/machine-learning)
-* Taming Big Data with Apache Spark and Python [(link)](https://www.udemy.com/taming-big-data-with-apache-spark-hands-on)
-* Deep Learning: RNN in Python [(link)](https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python)
-* Hadoop Platform and Application Framework [(link)](www.example.com)
-* Bayesian Statistics: From Concepts to Data Analysis [(link)](https://www.coursera.org/learn/bayesian-statistics)
-* Complete Guide to Elasticsearch [(link)](https://www.udemy.com/elasticsearch-complete-guide)
-* Artificial Intelligence: Reinforcement Learning in Python [(link)](https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python)
-* Intodcution to Mathematical Thinking [(link)](https://www.coursera.org/course/maththink)
+* Machine Learning by Andrew Ng <a class="ext-link-a" href="https://www.coursera.org/learn/machine-learning"><img class="ext-link-img" src="./images/ext-link.png" /></a> [(link)](https://www.coursera.org/learn/machine-learning)
+* Taming Big Data with Apache Spark and Python <a class="ext-link-a" href="https://www.udemy.com/taming-big-data-with-apache-spark-hands-on"><img class="ext-link-img" src="./images/ext-link.png" /></a> [(link)](https://www.udemy.com/taming-big-data-with-apache-spark-hands-on)
+* Deep Learning: RNN in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a> [(link)](https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python)
+* Hadoop Platform and Application Framework <a class="ext-link-a" href="https://www.coursera.org/learn/hadoop"><img class="ext-link-img" src="./images/ext-link.png" /></a> [(link)](https://www.coursera.org/learn/hadoop)
+* Bayesian Statistics: From Concepts to Data Analysis <a class="ext-link-a" href="https://www.coursera.org/learn/bayesian-statistics"><img class="ext-link-img" src="./images/ext-link.png" /></a> [(link)](https://www.coursera.org/learn/bayesian-statistics)
+* Complete Guide to Elasticsearch <a class="ext-link-a" href="https://www.udemy.com/elasticsearch-complete-guide"><img class="ext-link-img" src="./images/ext-link.png" /></a> [(link)](https://www.udemy.com/elasticsearch-complete-guide)
+* Artificial Intelligence: Reinforcement Learning in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a> [(link)](https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python)
+* Intodcution to Mathematical Thinking <a class="ext-link-a" href="https://www.coursera.org/course/maththink"><img class="ext-link-img" src="./images/ext-link.png" /></a> [(link)](https://www.coursera.org/course/maththink)
 
 ## Honors and Awards
 
