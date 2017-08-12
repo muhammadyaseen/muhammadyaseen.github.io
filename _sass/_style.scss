@@ -96,5 +96,23 @@ hr {
     }
 }
 
+/*
+ *		Added styles
+ */
+ 
+.jobposition {
+	color: #cacaca;
+	font-style: italic;
+}
+ 
+a.ext-link-a img.ext-link-img {
+	width: 12px;
+	height: 12px;
+}
+
+.ext-link-a {
+
+}
+ 
 @import "typography";
 @import "tables";
