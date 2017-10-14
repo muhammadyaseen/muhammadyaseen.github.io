@@ -101,13 +101,21 @@ hr {
  */
  
 .jobposition {
-	color: #cacaca;
+	color: #110503;
 	font-style: italic;
 }
  
 a.ext-link-a img.ext-link-img {
 	width: 12px;
 	height: 12px;
+}
+
+.outstanding-box {
+    // border: 1px solid red;
+    padding: 7px;
+    -webkit-box-shadow: 0px 0px 7px 2px rgba(201,201,201,1);
+    -moz-box-shadow: 0px 0px 7px 2px rgba(201,201,201,1);
+    box-shadow: 0px 0px 7px 2px rgba(201,201,201,1);
 }
 
 .ext-link-a {

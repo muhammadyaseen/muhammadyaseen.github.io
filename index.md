@@ -7,37 +7,13 @@ layout: default
 
 <img class="profile-picture" src="yaseen.jpg">
 
-Hello! I am Muhammad Yaseen, currently working as a Machine Learning Engineer for [PureVPN](http://www.purevpn.com) - a Cyber Security company (via [Disrupt](http://www.disrupt.com/platform)). I hold a Bachelor of Engineering in Computer and Information Systems from NED University of Engineering and Technology, Karachi.
+Hello! I am Muhammad Yaseen, currently working as a Machine Learning Engineer at [PureVPN](http://www.purevpn.com) - a Cyber Security company (via [Disrupt](http://www.disrupt.com/platform)). I did my bachelors in Computer and Information Systems Engineering from NED University of Engineering and Technology, Karachi.
 
 This page is my online resume. Here you can find information about my academic and professional interests, as well as a brief summary of my past and current work, and research experience.
 
-## Research Interest
+## Academic and Professional Interest
 
-I want to build intelligent systems that are capable of learning and adaptation. I work on industry scale systems powered by Machine Learning algorithms, leveraging the potential of Big Data. I have worked on ML pipelines, starting from the data gathering and enrichment phase and ending at deploying and testing in the wild.
-ML works at intersection of many fields. It works as a problem solving tools for many different domains of science and engineering. Hence, Following is a list of wide ranging topics I am interested in:
-
-I want to expore how ML algorithms can be applied on real world datasets with very real , practical real world limitations.
-
-I want to expore how large scale ML applications can be deployed in a robust fashion.
-
-I want to expore how the interplay between big data and ML
-
-I want to expore how generalization works for ML
-
-I want to expore how ML can help in robotics locomotion, learning and decisiopn making
-
-I want to expore ML theory and new learning algorithms and scaling issues.
-
-I want to expore how end-to-end learning is possible with deep learning 
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie Won Outstanding Lead Actor in a miniseries or a movieWon Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
+My chief interest is in architecting intelligent data-driven systems that are capable of learning and adaptation. I work on industry scale systems that use Big Data to power various Machine Learning (ML) applications. I have worked on Big Data and ML pipelines, starting from the data collection phase and ending at deployment and testing in the wild.
 
 ## Work Experience
 
@@ -47,31 +23,28 @@ Year | Award | Category
 <span class="jobposition">Machine Learning Engineer (Dec. 2016 - Present)</span>
 
 ---
+Achievements:
 
-Customer churn
+* Deployment of company's first Apache Spark cluster
 
-Customer attrition or churn is an important problem for virtually any services industry, not just software. 
+* Deployment of company's first Apache Hadoop cluster
+
+* Architecting company's first Machine Learning pipeline
+
+Problems I have worked with:
+
+* Customer churn 
 Indentifying the reasons of churn
 Support marketing teams in designing targeted campaigns based on data driven insights
 Predict customers that are more likely to churn
 A consistent and company-wide accepted measure of churn.
 
 
-Infrastructure health, and capacity planning
+* Infrastructure health, and capacity planning
 
-Infrastructure is the backbone of any software services company. Intelligent planning and monitoring. Proactive, rather than reactive measure are required to address issues in infrastructure. Similarly, companies can benefit both financially and user-experience wise if the infrastructure planning is data driven, based on clearly defined and consistent metrics. In other words, metrics, rather than speculation should be the norm.
+In this project I worked on development and deployement of data ingestion and storage pipeline. Collection and robust, scalable storage of machine generated metrics of a global network. The data was then used for monitoring the health of global IT infrastructure. Aid in scheduled load and capacity planning. This also reduced the manual effort of gathering data and compiling hefty reports, and increased accuracy and visibility.
 
-In this project I worked on development and deployement of Data ingestion and storage pipeline. Collection and robust, scalable storage of machine generated metrics of a global network.
-
-The data was then used for monitoring the health of system. Aid in scheduled load and capacity planning. This also reduced the manual effort of gathering data and compiling hefty reports, and increased accuracy and visibily.
-
-
-Improving user experience through intelligent allocation of infrastructure
-
-Manual routing rules quickly become obsolete and the search space is too big to manually trace and identify the best cases. That's why we took an intelligent learning approach to the problem. 
-The aim is to improve user experience by assigning the best possible infrastructure resource
-
-### Electronics Design Center
+### Electronics Design Center, NED University
 
 <span class="jobposition">Research Student (Jan. 2015 - Apr. 2015)</span>
 
@@ -81,26 +54,23 @@ Smart Doorbell
 
 In Electronics Design Center I was responsible for:  
 
-Hardware-Software interfacing, testing and debugging.
+Hardware-Software interfacing, testing, and debugging.
 Software development for Embedded Systems  
-
-Successfully completed the undertaken project before deadline. 
 
 ### Hyphen Consultancy
 
-<span class="jobposition">Freelance Web Developer (Aug. 2012 - Oct. 2014)</span>
+<span class="jobposition">Freelance Remote Web Developer (Aug. 2012 - Oct. 2014)</span>
 
 ---
 
-At Hyphen Consultancy, I have worked on:  
-Database driven Web Applications 
-Rich Internet Applications 
-Google Web Toolkit (Java), ASP.NET MVC, jQuery, PHP, HTML and CSS.
+As a freelancer with Hyphen Consultancy I worked on:  
+Database driven Web Applications (Primarily PHP and MySQL, occasionally ASP.Net and MS SQL Server) 
+Rich Internet Applications using Google Web Toolkit (Java)
 
  
 ## Research Experience
 
-### Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI), Kaiserslautern, Germany
+### TU Kaiserslautern / Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI), Kaiserslautern, Germany
 
 <span class="jobposition">Intern (Jun. 2016 - Aug. 2016)</span>
 
@@ -110,73 +80,71 @@ Internship supervisors:
 - Dr. Prof. h.c. Andreas Dengel ([TU KL](http://agd.informatik.uni-kl.de/team/lehre/prof-dr-prof-hc-andreas-dengel/) / [DFKI](https://www.dfki.de/web/kontakt/mitarbeiter?uid=ande00) / [Google Scholar](https://scholar.google.com/citations?user=p3YP0DMAAAAJ&hl=en)) 
 - Dr-Ing. Syed Saqib Bukhari ([TU KL](http://agd.informatik.uni-kl.de/team/lehre/dr-saquib-bukhari/) / [DFKI](http://dfki.de/~bukhari/) / [Google Scholar](https://scholar.google.com/citations?user=q3ecbfMAAAAJ&hl=en))
 
-[Commercial and Research Landscape for Smart Irrigation Systems](https://www.slideshare.net/MuhammadYaseenAftab1/commercial-research-landscape-for-smart-irrigation-systems)
+[Commercial and Research Landscape for Smart Irrigation Systems](https://www.slideshare.net/MuhammadYaseenAftab1/commercial-research-landscape-for-smart-irrigation-systems) - Presented as part of an initial project study at DFKI.
 
-[Smart Irrigation Systems - Hardware Architecture](https://www.slideshare.net/MuhammadYaseenAftab1/smart-irrigation-system-hardware-architecture-for-warm-project)
+[Smart Irrigation Systems - Hardware Architecture](https://www.slideshare.net/MuhammadYaseenAftab1/smart-irrigation-system-hardware-architecture-for-warm-project) - A presentation I gave at 10th Workshop on Field and Assistive Robotics [(WFAR 10)](https://agrosy.informatik.uni-kl.de/en/conferences/wfar/wfar10/) at Schloss Dagstuhl in Wadern, Germany.
 
-### Research Center for Artificial Intelligence, NED University, 
+### Research Center for Artificial Intelligence, NED University 
 
-<span class="jobposition">Research Student</span>
+<span class="jobposition">Research Student (Jun. 2015 - Dec. 2016)</span>
 
 ---
 
 Supervisor: Dr. Muhammad Khurram ([NED UET](http://www.neduet.edu.pk/cise/mkhurram.html) / [RCAI](http://rcai.pk/ResearchCenterAI/ourteam/director.html))
 
-I was among the first members of newly formed RCAI (formerly KFRL) established at NED Unviersity. While at RCAI I worked mainly on projects related to Internet of Things (IoT) technology.  
+I was among the first members of newly formed RCAI (formerly KFRL) established at NED Unviersity. While at RCAI I worked mainly on projects leveraging the Internet of Things (IoT) technology.  
 
-Smart Agriculture [link](http://rcai.pk/ResearchCenterAI/project/pp1.html)
-
-
-Smart Warehouse [link](http://rcai.pk/ResearchCenterAI/project/p4.html)
+* Smart Agriculture [link](http://rcai.pk/ResearchCenterAI/project/pp1.html)
 
 
-Oximeter [link](http://rcai.pk/ResearchCenterAI/project/p8.html)
+* Smart Warehouse [link](http://rcai.pk/ResearchCenterAI/project/p4.html)
+
+
+* Oximeter [link](http://rcai.pk/ResearchCenterAI/project/p8.html)
 
 
 [A Smart Safety Gadget for Avoiding Accidents in Warehouse Environment](https://www.slideshare.net/MuhammadYaseenAftab1/a-smart-safety-gadget-for-avoiding-accidents-in-warehouse-environment)
 
 ## I have programming experience in:
 
-* HTML/CSS/jQuery
-* C/C++
-* C#
+* Python
 * Java
+* C/C++
+* C#, ASP.Net MVC
 * PHP
-* Python 
+* HTML, CSS, and jQuery 
 * Experience with Version Control Systems e.g. Git 
-* Experience with Linux based OS (first hand experience with CentOS, LinuxMint, and Ubuntu)
+* Experience with Linux (first hand experience with CentOS, Linux Mint, and Ubuntu)
 
 ## BigData and ML Tools I have worked with
 
+* Apache Hadoop
 * Apache Spark
 * Apache Flume
-* Apache Hadoop
-* Elasticsearch, Kibana
-* Keras, Tensorflow, SciKit Learn, Theano
+* Elasticsearch and Kibana
+* Keras, Tensorflow, SciKit Learn
 
 ## Online Courses and Certifications
 
-I believe in self-learning yada yada
+* Machine Learning by Andrew Ng <a class="ext-link-a" href="https://www.coursera.org/learn/machine-learning"><img class="ext-link-img" src="./images/ext-link.png" /></a> 
+* Taming Big Data with Apache Spark and Python <a class="ext-link-a" href="https://www.udemy.com/taming-big-data-with-apache-spark-hands-on"><img class="ext-link-img" src="./images/ext-link.png" /></a> 
+* Deep Learning: RNN in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a> 
+* Hadoop Platform and Application Framework <a class="ext-link-a" href="https://www.coursera.org/learn/hadoop"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+* Bayesian Statistics: From Concepts to Data Analysis <a class="ext-link-a" href="https://www.coursera.org/learn/bayesian-statistics"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+* Complete Guide to Elasticsearch <a class="ext-link-a" href="https://www.udemy.com/elasticsearch-complete-guide"><img class="ext-link-img" src="./images/ext-link.png" /></a> 
+* Artificial Intelligence: Reinforcement Learning in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a> 
+* Intodcution to Mathematical Thinking <a class="ext-link-a" href="https://www.coursera.org/course/maththink"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 
-* Machine Learning by Andrew Ng <a class="ext-link-a" href="https://www.coursera.org/learn/machine-learning"><img class="ext-link-img" src="./images/ext-link.png" /></a> [(link)](https://www.coursera.org/learn/machine-learning)
-* Taming Big Data with Apache Spark and Python <a class="ext-link-a" href="https://www.udemy.com/taming-big-data-with-apache-spark-hands-on"><img class="ext-link-img" src="./images/ext-link.png" /></a> [(link)](https://www.udemy.com/taming-big-data-with-apache-spark-hands-on)
-* Deep Learning: RNN in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a> [(link)](https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python)
-* Hadoop Platform and Application Framework <a class="ext-link-a" href="https://www.coursera.org/learn/hadoop"><img class="ext-link-img" src="./images/ext-link.png" /></a> [(link)](https://www.coursera.org/learn/hadoop)
-* Bayesian Statistics: From Concepts to Data Analysis <a class="ext-link-a" href="https://www.coursera.org/learn/bayesian-statistics"><img class="ext-link-img" src="./images/ext-link.png" /></a> [(link)](https://www.coursera.org/learn/bayesian-statistics)
-* Complete Guide to Elasticsearch <a class="ext-link-a" href="https://www.udemy.com/elasticsearch-complete-guide"><img class="ext-link-img" src="./images/ext-link.png" /></a> [(link)](https://www.udemy.com/elasticsearch-complete-guide)
-* Artificial Intelligence: Reinforcement Learning in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a> [(link)](https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python)
-* Intodcution to Mathematical Thinking <a class="ext-link-a" href="https://www.coursera.org/course/maththink"><img class="ext-link-img" src="./images/ext-link.png" /></a> [(link)](https://www.coursera.org/course/maththink)
+## Scholarships, Honors, and Awards
 
-## Honors and Awards
-
-* Hamdard scholarship
-* Award B/bsek award/biek pos.
-* Position in ESA Mars Express Power Challenge https://kelvins.esa.int/mars-express-power-challenge/leaderboard/
-* Award C
-* Honor 2
-
-(participation in expo)
-(link to different slideshare presentations? or can add those links in relevant sections with project details)
+* 7th Position out of 140 in the graduating batch (top 5%)
+* Won ICT R&D Fund award for Final Year Project
+* Among top 10 in European Space Agency Mars Express Power Challenge https://kelvins.esa.int/mars-express-power-challenge/leaderboard/
+* 2nd Position at DICE Health Exhibition and Compition 2015 
+* Hakim Mohammad Saeed Memorial Scholarship awarded by Hamdard Foundation Pakistan (for University studies, 2013-2017) 
+* Certificate of Merit and Medal awarded by the Pricincipal of Adamjee Government Science College.
+* Hakim Mohammad Saeed Memorial Scholarship awarded by Hamdard Foundation Pakistan (for College studies, 2011-2012)
+* Cash Prize for Merit by Board of Seconday Education Karachi (12th Position in city wide annual exams).
 
 ## Online Lectures and Blogs I follow
 
@@ -185,14 +153,14 @@ I believe in self-learning yada yada
 * [Probabilistic Graphical Models](https://www.youtube.com/watch?v=WPSQfOkb1M8&list=PL50E6E80E8525B59C) - (by Prof. Daphne Koller, Stanford)
 * Cristopher Olah's [blog](http://colah.github.io/) / Andrej Karpathy's [blog](http://karpathy.github.io/)
 * [DeepMind](www.deepmind.com) / [OpenAI](www.openai.com)
-* ...more at [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)
-* Test <a class="ext-link-a" href="http://www.google.com"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+* More resources at [Awesome ML](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## Other Interests
 
 * History,
-* Philosophy (include courses), 
-* Literature, Reading (link link), Writing
+* Philosophy (include courses),
+* Astronomy and Astrophysics
+* Art & Literature, Reading (link link), Writing
 
 ## Contact
 

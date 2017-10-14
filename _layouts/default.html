@@ -78,6 +78,10 @@
             <div class="container content contact">
                 {{ content }}
             </div>
+        {% else if page.is_gallery == true %}
+            <div class="container content gallery">
+                {{ content }}
+            </div>
         {% else %}
             <div class="container content">
                 {{ content }}

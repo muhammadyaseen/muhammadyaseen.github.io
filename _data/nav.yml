@@ -5,4 +5,10 @@
   link: "resume.pdf"
 
 - name: "About"
-  link: "/researcher/"
+  link: "http://www.muhammadyaseen.github.io"
+
+- name: "Gallery"
+  link: "gallery"
+
+- name: "Blog"
+  link: "http://www.yaseenx.wordpress.com"
