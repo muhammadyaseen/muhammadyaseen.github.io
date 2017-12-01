@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-## Page Under development -root
 
 ## About Me
 
@@ -158,10 +157,13 @@ I was among the first members of newly formed RCAI (formerly KFRL) established a
 ## Other Interests
 
 * History,
-* Philosophy (include courses),
-* Astronomy and Astrophysics
-* Art & Literature, Reading (link link), Writing
+* Philosophy,
+* Amateur Astronomy
+* Literature, Reading ([2016](https://yaseenx.wordpress.com/2017/01/21/what-i-read-in-2016/] [2017](#)), Writing
 
+<a name="contact" />
 ## Contact
 
 * mohammadyaseen13@gmail.com
+* [@nisaydhm](twitter.com/nisaydhm)
+
