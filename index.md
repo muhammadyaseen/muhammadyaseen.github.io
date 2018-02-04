@@ -10,24 +10,17 @@ Hello! I am Muhammad Yaseen, currently working as a Machine Learning Engineer at
 
 My chief interest is in architecting intelligent data-driven systems that are capable of learning and adaptation. I work on industry scale systems that use Big Data to power various Machine Learning (ML) applications. I have worked on Big Data and ML pipelines, starting from the data collection phase and ending at deployment and testing in the wild.
 
-<!--Areas: <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
-
-Programming: <button class="skill-badge-orange">Python</button> <button class="skill-badge-orange">C/C++</button> <button class="skill-badge-orange">Java</button> <button class="skill-badge-orange">C#</button>
-
-Frameworks: <button class="skill-badge-orange">Keras</button> <button class="skill-badge-orange">Tensorflow</button> <button class="skill-badge-orange">SciKit</button> <button class="skill-badge-orange">Spark MLLib</button>
-
-Big Data: <button class="skill-badge-orange">Apache Hadoop</button> <button class="skill-badge-orange">Apache Spark</button> <button class="skill-badge-orange">Apache Flume</button>-->
 
 ----------------|-----------------------------
-Areas           | <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
+Research Areas           | <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
 Programming     | <button class="skill-badge-orange">Python</button> <button class="skill-badge-orange">C/C++</button> <button class="skill-badge-orange">Java</button> <button class="skill-badge-orange">C#</button>
-Frameworks      | <button class="skill-badge-orange">Keras</button> <button class="skill-badge-orange">Tensorflow</button> <button class="skill-badge-orange">SciKit</button> <button class="skill-badge-orange">Spark MLLib</button>
+ML/DL Frameworks      | <button class="skill-badge-orange">Keras</button> <button class="skill-badge-orange">Tensorflow</button> <button class="skill-badge-orange">SciKit</button> <button class="skill-badge-orange">Spark MLLib</button>
 Big Data        | <button class="skill-badge-orange">Apache Hadoop</button> <button class="skill-badge-orange">Apache Spark</button> <button class="skill-badge-orange">Apache Flume</button>
 
 ## Research Experience
 ### TU Kaiserslautern / German Research Center for AI, Kaiserslautern, Germany
 
-<span class="jobposition">Intern (Jun. 2016 - Aug. 2016)</span>
+<span class="jobposition">Intern (June 2016 - August 2016)</span>
 
 ---
 In German, Deutsches Forschungszentrum für Künstliche Intelligenz
@@ -42,7 +35,7 @@ Internship supervisors:
 
 ### Research Center for AI, NED University
 
-<span class="jobposition">Research Student (Jun. 2015 - Dec. 2016)</span>
+<span class="jobposition">Research Student (June 2015 - December 2016)</span>
 
 ---
 
@@ -61,7 +54,7 @@ I was among the first members of newly formed RCAI (formerly KFRL) established a
 
 ### PureVPN (via Disrupt Ventures)
 
-<span class="jobposition">Machine Learning Engineer (Dec. 2016 - Present)</span>
+<span class="jobposition">Machine Learning Engineer (December 2016 - Present)</span>
 
 ---
 Achievements:
@@ -83,7 +76,7 @@ In this project I worked on development and deployment of data ingestion and sto
 
 ### Electronics Design Center, NED University
 
-<span class="jobposition">Research Student (Jan. 2015 - Apr. 2015)</span>
+<span class="jobposition">Research Student (January 2015 - April 2015)</span>
 
 ---
 
@@ -96,7 +89,7 @@ In Electronics Design Center I was responsible for:
 
 ### Hyphen Consultancy
 
-<span class="jobposition">Freelance Remote Web Developer (Aug. 2012 - Oct. 2014)</span>
+<span class="jobposition">Freelance Remote Web Developer (August 2012 - October 2014)</span>
 
 ---
 
@@ -136,7 +129,7 @@ Rich Internet Applications using Google Web Toolkit (Java)
 
 |-------------------------------------------------------
 | 7th Position out of 140 in the graduating batch (top 5%)
-| Won ICT R&D Fund award for Final Year Project
+| Won National ICT R&D Fund award for Final Year Project
 | Among top 10 in European Space Agency's [Mars Express Power Challenge](https://kelvins.esa.int/mars-express-power-challenge/leaderboard/)
 | 2nd Position at DICE Health Exhibition and Competition 2015
 | Won Scholarship awarded by Hamdard Foundation for University studies, 2013-2017
@@ -147,10 +140,10 @@ Rich Internet Applications using Google Web Toolkit (Java)
 
 ## Other Interests
 
-* History,
-* Philosophy,
-* Amateur Astronomy
-* Literature, Reading ([2016](https://yaseenx.wordpress.com/2017/01/21/what-i-read-in-2016/) [2017](#)), Writing
+* History (Contemporary, Medieval, Antiquity),
+* Philosophy
+* Amateur Astronomy, [Astronomy Society](https://www.facebook.com/KarachiAstronomy/)
+* Literature, Reading ([2016](https://yaseenx.wordpress.com/2017/01/21/what-i-read-in-2016/), [2017](#)), Writing ([Blog](http://yaseenx.wordpress.com))
 
 <a name="contact" />
 ## Contact
