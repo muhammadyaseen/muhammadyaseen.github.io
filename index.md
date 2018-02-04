@@ -6,19 +6,31 @@ layout: default
 
 Hello! I am Muhammad Yaseen, currently working as a Machine Learning Engineer at [PureVPN](http://www.purevpn.com) - a Cyber Security company (via [Disrupt](http://www.disrupt.com/platform)). I did my bachelors in Computer and Information Systems Engineering from NED University of Engineering and Technology, Karachi.
 
-
 ## Research Interests
 
 My chief interest is in architecting intelligent data-driven systems that are capable of learning and adaptation. I work on industry scale systems that use Big Data to power various Machine Learning (ML) applications. I have worked on Big Data and ML pipelines, starting from the data collection phase and ending at deployment and testing in the wild.
 
+<!--Areas: <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
+
+Programming: <button class="skill-badge-orange">Python</button> <button class="skill-badge-orange">C/C++</button> <button class="skill-badge-orange">Java</button> <button class="skill-badge-orange">C#</button>
+
+Frameworks: <button class="skill-badge-orange">Keras</button> <button class="skill-badge-orange">Tensorflow</button> <button class="skill-badge-orange">SciKit</button> <button class="skill-badge-orange">Spark MLLib</button>
+
+Big Data: <button class="skill-badge-orange">Apache Hadoop</button> <button class="skill-badge-orange">Apache Spark</button> <button class="skill-badge-orange">Apache Flume</button>-->
+
+----------------|-----------------------------
+Areas           | <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
+Programming     | <button class="skill-badge-orange">Python</button> <button class="skill-badge-orange">C/C++</button> <button class="skill-badge-orange">Java</button> <button class="skill-badge-orange">C#</button>
+Frameworks      | <button class="skill-badge-orange">Keras</button> <button class="skill-badge-orange">Tensorflow</button> <button class="skill-badge-orange">SciKit</button> <button class="skill-badge-orange">Spark MLLib</button>
+Big Data        | <button class="skill-badge-orange">Apache Hadoop</button> <button class="skill-badge-orange">Apache Spark</button> <button class="skill-badge-orange">Apache Flume</button>
 
 ## Research Experience
-
-### TU Kaiserslautern / Deutsches Forschungszentrum für Künstliche Intelligenz (DFKI), Kaiserslautern, Germany
+### TU Kaiserslautern / German Research Center for AI, Kaiserslautern, Germany
 
 <span class="jobposition">Intern (Jun. 2016 - Aug. 2016)</span>
 
 ---
+In German, Deutsches Forschungszentrum für Künstliche Intelligenz
 
 Internship supervisors:
 - Dr. Prof. h.c. Andreas Dengel ([TU KL](http://agd.informatik.uni-kl.de/team/lehre/prof-dr-prof-hc-andreas-dengel/) / [DFKI](https://www.dfki.de/web/kontakt/mitarbeiter?uid=ande00) / [Google Scholar](https://scholar.google.com/citations?user=p3YP0DMAAAAJ&hl=en))
@@ -28,7 +40,7 @@ Internship supervisors:
 
 [Smart Irrigation Systems - Hardware Architecture](https://www.slideshare.net/MuhammadYaseenAftab1/smart-irrigation-system-hardware-architecture-for-warm-project) - A presentation I gave at 10th Workshop on Field and Assistive Robotics [(WFAR 10)](https://agrosy.informatik.uni-kl.de/en/conferences/wfar/wfar10/) at Schloss Dagstuhl in Wadern, Germany.
 
-### Research Center for Artificial Intelligence, NED University
+### Research Center for AI, NED University
 
 <span class="jobposition">Research Student (Jun. 2015 - Dec. 2016)</span>
 
@@ -92,6 +104,17 @@ As a freelancer with Hyphen Consultancy I worked on:
 Database driven Web Applications (Primarily PHP and MySQL, occasionally ASP.Net and MS SQL Server)
 Rich Internet Applications using Google Web Toolkit (Java)
 
+## Online Courses and Certifications
+
+|-------------------
+|Machine Learning by Andrew Ng <a class="ext-link-a" href="https://www.coursera.org/learn/machine-learning"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Taming Big Data with Apache Spark and Python <a class="ext-link-a" href="https://www.udemy.com/taming-big-data-with-apache-spark-hands-on"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Deep Learning: RNN in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Hadoop Platform and Application Framework <a class="ext-link-a" href="https://www.coursera.org/learn/hadoop"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Bayesian Statistics: From Concepts to Data Analysis <a class="ext-link-a" href="https://www.coursera.org/learn/bayesian-statistics"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Complete Guide to Elasticsearch <a class="ext-link-a" href="https://www.udemy.com/elasticsearch-complete-guide"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Artificial Intelligence: Reinforcement Learning in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Intodcution to Mathematical Thinking <a class="ext-link-a" href="https://www.coursera.org/course/maththink"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 
 ## I have programming experience in:
 
@@ -109,27 +132,17 @@ Rich Internet Applications using Google Web Toolkit (Java)
 * Apache Hadoop, Apache Spark, Apache Flume
 * Elasticsearch and Kibana
 
-## Online Courses and Certifications
-
-* Machine Learning by Andrew Ng <a class="ext-link-a" href="https://www.coursera.org/learn/machine-learning"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-* Taming Big Data with Apache Spark and Python <a class="ext-link-a" href="https://www.udemy.com/taming-big-data-with-apache-spark-hands-on"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-* Deep Learning: RNN in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-* Hadoop Platform and Application Framework <a class="ext-link-a" href="https://www.coursera.org/learn/hadoop"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-* Bayesian Statistics: From Concepts to Data Analysis <a class="ext-link-a" href="https://www.coursera.org/learn/bayesian-statistics"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-* Complete Guide to Elasticsearch <a class="ext-link-a" href="https://www.udemy.com/elasticsearch-complete-guide"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-* Artificial Intelligence: Reinforcement Learning in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-* Intodcution to Mathematical Thinking <a class="ext-link-a" href="https://www.coursera.org/course/maththink"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-
 ## Scholarships, Honors, and Awards
 
-* 7th Position out of 140 in the graduating batch (top 5%)
-* Won ICT R&D Fund award for Final Year Project
-* Among top 10 in European Space Agency Mars Express Power Challenge https://kelvins.esa.int/mars-express-power-challenge/leaderboard/
-* 2nd Position at DICE Health Exhibition and Compition 2015
-* Won Hakim Mohammad Saeed Memorial Scholarship awarded by Hamdard Foundation Pakistan (for University studies, 2013-2017)
-* Certificate of Merit and Medal awarded by the Pricincipal of Adamjee Government Science College.
-* Won Hakim Mohammad Saeed Memorial Scholarship awarded by Hamdard Foundation Pakistan (for College studies, 2011-2012)
-* Cash Prize for Merit by Board of Secondary Education Karachi (12th Position in city wide annual exams).
+|-------------------------------------------------------
+| 7th Position out of 140 in the graduating batch (top 5%)
+| Won ICT R&D Fund award for Final Year Project
+| Among top 10 in European Space Agency's [Mars Express Power Challenge](https://kelvins.esa.int/mars-express-power-challenge/leaderboard/)
+| 2nd Position at DICE Health Exhibition and Competition 2015
+| Won Scholarship awarded by Hamdard Foundation for University studies, 2013-2017
+| Certificate of Merit awarded by the Principal of Adamjee Government Science College.
+| Won Scholarship awarded by Hamdard Foundation for College studies, 2011-2012
+| Cash Prize by Board of Secondary Education, Karachi (12th Position in city).
 
 
 ## Other Interests

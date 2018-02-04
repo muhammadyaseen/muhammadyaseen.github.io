@@ -99,12 +99,12 @@ hr {
 /*
  *		Added styles
  */
- 
+
 .jobposition {
 	color: #110503;
 	font-style: italic;
 }
- 
+
 a.ext-link-a img.ext-link-img {
 	width: 12px;
 	height: 12px;
@@ -134,6 +134,46 @@ a.ext-link-a img.ext-link-img {
 .ext-link-a {
 
 }
- 
+
+.skill-badge-orange {
+  background: #ffaf38;
+  background-image: -webkit-linear-gradient(top, #ffaf38, #f28500);
+  background-image: -moz-linear-gradient(top, #ffaf38, #f28500);
+  background-image: -ms-linear-gradient(top, #ffaf38, #f28500);
+  background-image: -o-linear-gradient(top, #ffaf38, #f28500);
+  background-image: linear-gradient(to bottom, #ffaf38, #f28500);
+  //border: 1px solid #FF8633;
+  border: none;
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  /*font-weight: bold;*/
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+.skill-badge-green {
+  background: #34d622;
+  background-image: -webkit-linear-gradient(top, #34d622, #66a30c);
+  background-image: -moz-linear-gradient(top, #34d622, #66a30c);
+  background-image: -ms-linear-gradient(top, #34d622, #66a30c);
+  background-image: -o-linear-gradient(top, #34d622, #66a30c);
+  background-image: linear-gradient(to bottom, #34d622, #66a30c);
+  // border: 1px solid #029E15;
+  border: none;
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 12px;
+  /*font-weight: bold;*/
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
 @import "typography";
 @import "tables";
