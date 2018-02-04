@@ -17,6 +17,7 @@ body {
 a {
     text-decoration: none;
     color: $accent;
+    font-weight: bold;
 }
 a:hover {
     text-decoration: underline;
@@ -119,7 +120,10 @@ a.ext-link-a img.ext-link-img {
 }
 
 .gallery-imgbox {
-
+  float: left;
+  width: 345px;
+  border: 1px solid #dddddd;
+  padding: 1px;
 }
 
 .gallery-p {
@@ -127,7 +131,7 @@ a.ext-link-a img.ext-link-img {
 }
 
 .gallery-image {
-    width: 400px !important;
+    width: 340px !important;
     height: 300px;
 }
 
