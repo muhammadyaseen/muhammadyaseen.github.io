@@ -13,12 +13,14 @@ My chief interest is in architecting intelligent data-driven systems that are ca
 
 ----------------|-----------------------------
 Research Areas           | <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
-Programming     | <button class="skill-badge-orange">Python</button> <button class="skill-badge-orange">C/C++</button> <button class="skill-badge-orange">Java</button> <button class="skill-badge-orange">C#</button>
-ML/DL Frameworks      | <button class="skill-badge-orange">Keras</button> <button class="skill-badge-orange">Tensorflow</button> <button class="skill-badge-orange">SciKit</button> <button class="skill-badge-orange">Spark MLLib</button>
-Big Data        | <button class="skill-badge-orange">Apache Hadoop</button> <button class="skill-badge-orange">Apache Spark</button> <button class="skill-badge-orange">Apache Flume</button>
+Programming     | <button class="skill-badge-blue">Python</button> <button class="skill-badge-blue">C/C++</button> <button class="skill-badge-blue">Java</button> <button class="skill-badge-blue">C#</button>
+ML/DL Frameworks      | <button class="skill-badge-blue">Keras</button> <button class="skill-badge-blue">Tensorflow</button> <button class="skill-badge-blue">SciKit</button> <button class="skill-badge-blue">Spark MLLib</button>
+Big Data        | <button class="skill-badge-blue">Apache Hadoop</button> <button class="skill-badge-blue">Apache Spark</button> <button class="skill-badge-blue">Apache Flume</button>
 
 ## Research Experience
 ### TU Kaiserslautern / German Research Center for AI, Kaiserslautern, Germany
+<img class="affiliation_logo" src="./images/tu_kaiserslautern.png">
+<img class="affiliation_logo" src="./images/dfki.jpg">
 
 <span class="jobposition">Intern (June 2016 - August 2016)</span>
 
@@ -34,6 +36,9 @@ Internship supervisors:
 [Smart Irrigation Systems - Hardware Architecture](https://www.slideshare.net/MuhammadYaseenAftab1/smart-irrigation-system-hardware-architecture-for-warm-project) - A presentation I gave at 10th Workshop on Field and Assistive Robotics [(WFAR 10)](https://agrosy.informatik.uni-kl.de/en/conferences/wfar/wfar10/) at Schloss Dagstuhl in Wadern, Germany.
 
 ### Research Center for AI, NED University
+
+<img class="affiliation_logo" src="./images/rcai.jpg">
+<img class="affiliation_logo" src="./images/ned.png">
 
 <span class="jobposition">Research Student (June 2015 - December 2016)</span>
 
@@ -53,6 +58,9 @@ I was among the first members of newly formed RCAI (formerly KFRL) established a
 ## Work Experience
 
 ### PureVPN (via Disrupt Ventures)
+
+<img class="affiliation_logo" src="./images/gaditek.jpg">
+<img class="affiliation_logo" src="./images/pure_vpn.png">
 
 <span class="jobposition">Machine Learning Engineer (December 2016 - Present)</span>
 
