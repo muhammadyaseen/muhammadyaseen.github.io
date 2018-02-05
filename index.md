@@ -10,17 +10,19 @@ Hello! I am Muhammad Yaseen, currently working as a Machine Learning Engineer at
 
 My chief interest is in architecting intelligent data-driven systems that are capable of learning and adaptation. I work on industry scale systems that use Big Data to power various Machine Learning (ML) applications. I have worked on Big Data and ML pipelines, starting from the data collection phase and ending at deployment and testing in the wild.
 
+#### Skills Summary
 
 ----------------|-----------------------------
 Research Areas           | <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
-Programming     | <button class="skill-badge-blue">Python</button> <button class="skill-badge-blue">C/C++</button> <button class="skill-badge-blue">Java</button> <button class="skill-badge-blue">C#</button>
+Programming     | <button class="skill-badge-blue">Python</button> <button class="skill-badge-blue">C/C++</button> <button class="skill-badge-blue">Java</button> <button class="skill-badge-blue">C#</button> <button class="skill-badge-blue">PHP</button> <button class="skill-badge-blue">VCS (Git)</button>
 ML/DL Frameworks      | <button class="skill-badge-blue">Keras</button> <button class="skill-badge-blue">Tensorflow</button> <button class="skill-badge-blue">SciKit</button> <button class="skill-badge-blue">Spark MLLib</button>
-Big Data        | <button class="skill-badge-blue">Apache Hadoop</button> <button class="skill-badge-blue">Apache Spark</button> <button class="skill-badge-blue">Apache Flume</button>
+Big Data        | <button class="skill-badge-blue">Apache Hadoop</button> <button class="skill-badge-blue">Apache Spark</button> <button class="skill-badge-blue">Apache Flume</button> <button class="skill-badge-blue">Apache Hive</button>
+Linux        | <button class="skill-badge-blue">CentOS</button> <button class="skill-badge-blue">Ubuntu</button> <button class="skill-badge-blue">LinuxMint</button>
 
 ## Research Experience
 ### TU Kaiserslautern / German Research Center for AI, Kaiserslautern, Germany
-<img class="affiliation_logo" src="./images/tu_kaiserslautern.png">
-<img class="affiliation_logo" src="./images/dfki.jpg">
+<img style="width: 170px; height: 50px;" src="./images/tu_kaiserslautern.png">
+<img style="width: 170px; height: 50px;" src="./images/dfki.jpg">
 
 <span class="jobposition">Intern (June 2016 - August 2016)</span>
 
@@ -37,8 +39,8 @@ Internship supervisors:
 
 ### Research Center for AI, NED University
 
-<img class="affiliation_logo" src="./images/rcai.jpg">
-<img class="affiliation_logo" src="./images/ned.png">
+<img style="width: 90px; height: 60px;" src="./images/rcai.jpg">
+<img style="width: 90px; height: 60px;" src="./images/ned.png">
 
 <span class="jobposition">Research Student (June 2015 - December 2016)</span>
 
@@ -59,8 +61,8 @@ I was among the first members of newly formed RCAI (formerly KFRL) established a
 
 ### PureVPN (via Disrupt Ventures)
 
-<img class="affiliation_logo" src="./images/gaditek.jpg">
-<img class="affiliation_logo" src="./images/pure_vpn.png">
+<img style="width: 170px; height: 50px;" src="./images/gaditek.jpg">
+<img style="width: 170px; height: 50px;" src="./images/pure_vpn.png">
 
 <span class="jobposition">Machine Learning Engineer (December 2016 - Present)</span>
 
@@ -107,15 +109,29 @@ Rich Internet Applications using Google Web Toolkit (Java)
 
 ## Online Courses and Certifications
 
+I did following online courses to enhance my knowledge of Machine Learning and data analytics platforms
+
 |-------------------
 |Machine Learning by Andrew Ng <a class="ext-link-a" href="https://www.coursera.org/learn/machine-learning"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-|Taming Big Data with Apache Spark and Python <a class="ext-link-a" href="https://www.udemy.com/taming-big-data-with-apache-spark-hands-on"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-|Deep Learning: RNN in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-|Hadoop Platform and Application Framework <a class="ext-link-a" href="https://www.coursera.org/learn/hadoop"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Bayesian Statistics: From Concepts to Data Analysis <a class="ext-link-a" href="https://www.coursera.org/learn/bayesian-statistics"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-|Complete Guide to Elasticsearch <a class="ext-link-a" href="https://www.udemy.com/elasticsearch-complete-guide"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-|Artificial Intelligence: Reinforcement Learning in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Deep Learning: RNN in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Intodcution to Mathematical Thinking <a class="ext-link-a" href="https://www.coursera.org/course/maththink"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Artificial Intelligence: Reinforcement Learning in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Hadoop Platform and Application Framework <a class="ext-link-a" href="https://www.coursera.org/learn/hadoop"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Taming Big Data with Apache Spark and Python <a class="ext-link-a" href="https://www.udemy.com/taming-big-data-with-apache-spark-hands-on"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Complete Guide to Elasticsearch <a class="ext-link-a" href="https://www.udemy.com/elasticsearch-complete-guide"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+
+## Scholarships, Honors, and Awards
+
+|-------------------------------------------------------
+| 7th Position out of 140 in the graduating batch (top 5%)
+| Won National ICT R&D Fund award for Final Year Project
+| Among top 10 in European Space Agency's [Mars Express Power Challenge](https://kelvins.esa.int/mars-express-power-challenge/leaderboard/)
+| 2nd Position at DICE Health Exhibition and Competition 2015
+| Won Scholarship awarded by Hamdard Foundation for University studies, 2013-2017
+| Certificate of Merit awarded by the Principal of Adamjee Government Science College.
+| Won Scholarship awarded by Hamdard Foundation for College studies, 2011-2012
+| Cash Prize by Board of Secondary Education, Karachi (12th Position in city).
 
 ## I have programming experience in:
 
@@ -132,18 +148,6 @@ Rich Internet Applications using Google Web Toolkit (Java)
 
 * Apache Hadoop, Apache Spark, Apache Flume
 * Elasticsearch and Kibana
-
-## Scholarships, Honors, and Awards
-
-|-------------------------------------------------------
-| 7th Position out of 140 in the graduating batch (top 5%)
-| Won National ICT R&D Fund award for Final Year Project
-| Among top 10 in European Space Agency's [Mars Express Power Challenge](https://kelvins.esa.int/mars-express-power-challenge/leaderboard/)
-| 2nd Position at DICE Health Exhibition and Competition 2015
-| Won Scholarship awarded by Hamdard Foundation for University studies, 2013-2017
-| Certificate of Merit awarded by the Principal of Adamjee Government Science College.
-| Won Scholarship awarded by Hamdard Foundation for College studies, 2011-2012
-| Cash Prize by Board of Secondary Education, Karachi (12th Position in city).
 
 
 ## Other Interests
