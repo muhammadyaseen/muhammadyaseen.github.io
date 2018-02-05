@@ -4,16 +4,18 @@ layout: default
 
 <img class="profile-picture" src="yaseen.jpg">
 
-Hello! I am Muhammad Yaseen, currently working as a Machine Learning Engineer at [PureVPN](http://www.purevpn.com) - a Cyber Security company (via [Disrupt](http://www.disrupt.com/platform)). I did my bachelors in Computer and Information Systems Engineering from NED University of Engineering and Technology, Karachi.
+I am Muhammad Yaseen, currently working as a Machine Learning Engineer at [PureVPN](http://www.purevpn.com) - a Cyber Security company (via [Disrupt](http://www.disrupt.com/platform)). I did my bachelors in Computer and Information Systems Engineering from NED University of Engineering and Technology, Pakistan.
 
 ## Research Interests
 
 My chief interest is in architecting intelligent data-driven systems that are capable of learning and adaptation. I work on industry scale systems that use Big Data to power various Machine Learning (ML) applications. I have worked on Big Data and ML pipelines, starting from the data collection phase and ending at deployment and testing in the wild.
 
+----------------|-----------------------------
+Research Areas  | <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
+
 #### Skills Summary
 
 ----------------|-----------------------------
-Research Areas           | <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
 Programming     | <button class="skill-badge-blue">Python</button> <button class="skill-badge-blue">C/C++</button> <button class="skill-badge-blue">Java</button> <button class="skill-badge-blue">C#</button> <button class="skill-badge-blue">PHP</button> <button class="skill-badge-blue">VCS (Git)</button>
 ML/DL Frameworks      | <button class="skill-badge-blue">Keras</button> <button class="skill-badge-blue">Tensorflow</button> <button class="skill-badge-blue">SciKit</button> <button class="skill-badge-blue">Spark MLLib</button>
 Big Data        | <button class="skill-badge-blue">Apache Hadoop</button> <button class="skill-badge-blue">Apache Spark</button> <button class="skill-badge-blue">Apache Flume</button> <button class="skill-badge-blue">Apache Hive</button>
@@ -24,7 +26,7 @@ Linux        | <button class="skill-badge-blue">CentOS</button> <button class="s
 <img style="width: 170px; height: 50px;" src="./images/tu_kaiserslautern.png">
 <img style="width: 170px; height: 50px;" src="./images/dfki.jpg">
 
-<span class="jobposition">Intern (June 2016 - August 2016)</span>
+<span class="jobposition">Research Intern (June 2016 - August 2016)</span>
 
 ---
 In German, Deutsches Forschungszentrum für Künstliche Intelligenz
@@ -32,6 +34,12 @@ In German, Deutsches Forschungszentrum für Künstliche Intelligenz
 Internship supervisors:
 - Dr. Prof. h.c. Andreas Dengel ([TU KL](http://agd.informatik.uni-kl.de/team/lehre/prof-dr-prof-hc-andreas-dengel/) / [DFKI](https://www.dfki.de/web/kontakt/mitarbeiter?uid=ande00) / [Google Scholar](https://scholar.google.com/citations?user=p3YP0DMAAAAJ&hl=en))
 - Dr-Ing. Syed Saqib Bukhari ([TU KL](http://agd.informatik.uni-kl.de/team/lehre/dr-saquib-bukhari/) / [DFKI](http://dfki.de/~bukhari/) / [Google Scholar](https://scholar.google.com/citations?user=q3ecbfMAAAAJ&hl=en))
+
+This internship was part of Smart Agriculture project collaboration between NED University (Pakistan) and DFKI (Germany). During this internship I learned how AI and ML is being used at DFKI to solve many different problems in fields like agriculture, farming, smart books/learning, document understanding and segmentation.
+
+<img style="width: 340px; height: 255px;" src="./images/me_kl.jpg">
+
+As part of my project study, I gave following 2 presentations:
 
 [Commercial and Research Landscape for Smart Irrigation Systems](https://www.slideshare.net/MuhammadYaseenAftab1/commercial-research-landscape-for-smart-irrigation-systems) - Presented as part of an initial project study at DFKI.
 
@@ -48,14 +56,20 @@ Internship supervisors:
 
 Supervisor: Dr. Muhammad Khurram ([NED UET](http://www.neduet.edu.pk/cise/mkhurram.html) / [RCAI](http://rcai.pk/ResearchCenterAI/ourteam/director.html))
 
-I was among the first members of newly formed RCAI (formerly KFRL) established at NED Unviersity. While at RCAI I worked mainly on projects leveraging the Internet of Things (IoT) technology.  
+I was among the first members of newly formed RCAI established at NED University. At RCAI I worked mainly on projects leveraging the Internet of Things (IoT) technology.
 
-* Smart Agriculture [link](http://rcai.pk/ResearchCenterAI/project/pp1.html)
-* Smart Warehouse [link](http://rcai.pk/ResearchCenterAI/project/p4.html)
-* Oximeter [link](http://rcai.pk/ResearchCenterAI/project/p8.html)
+* **Smart Agriculture** [(Project Link)](http://rcai.pk/ResearchCenterAI/project/pp1.html): In this German Academic Exchange Service (DAAD) funded project, as part of hardware design team I worked on several prototypes based on different Arduino and custom boards. (weblink)
+* **Smart Warehouse** [(Project Link)](http://rcai.pk/ResearchCenterAI/project/p4.html): In this project I worked on a device which helps warehouse workers avoid accidental injury-causing encounters with automated heavy-machinery and tools. My work included writing code **C/C++** for hardware interfacing.
 
-[A Smart Safety Gadget for Avoiding Accidents in Warehouse Environment](https://www.slideshare.net/MuhammadYaseenAftab1/a-smart-safety-gadget-for-avoiding-accidents-in-warehouse-environment)
+<img style="width: 340px; height: 255px;" src="./images/warehouse_device.png">
 
+[Blog Post](https://yaseenx.wordpress.com/2016/06/11/presenting-my-paper-at-1st-ieec-conference/) about project
+
+Project presentation: [A Smart Safety Gadget for Avoiding Accidents in Warehouse Environment](https://www.slideshare.net/MuhammadYaseenAftab1/a-smart-safety-gadget-for-avoiding-accidents-in-warehouse-environment)
+
+* **Oximeter** [(Project Link)](http://rcai.pk/ResearchCenterAI/project/p8.html): In this project I worked on a Bluetooth enabled low-power oximeter which measures blood-oxygen level and heart rate. My responsibilities included writing code in **C/C++** for interfacing the hardware components. I also developed an Android app **Java** for operating device via smartphone.
+
+<img style="width: 340px; height: 255px;" src="./images/oxi_pres.jpg">
 
 ## Work Experience
 
@@ -152,7 +166,7 @@ I did following online courses to enhance my knowledge of Machine Learning and d
 
 ## Other Interests
 
-* History (Contemporary, Medieval, Antiquity),
+* History (Contemporary, Medieval, Antiquity)
 * Philosophy
 * Amateur Astronomy, [Astronomy Society](https://www.facebook.com/KarachiAstronomy/)
 * Literature, Reading ([2016](https://yaseenx.wordpress.com/2017/01/21/what-i-read-in-2016/), [2017](#)), Writing ([Blog](http://yaseenx.wordpress.com))
@@ -160,5 +174,5 @@ I did following online courses to enhance my knowledge of Machine Learning and d
 <a name="contact" />
 ## Contact
 
-* mohammadyaseen13@gmail.com
+* mohammad_yaseen13@live.com
 * [@nisaydhm](twitter.com/nisaydhm)

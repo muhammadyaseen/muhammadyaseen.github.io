@@ -39,4 +39,14 @@ is_gallery: true
 <p class="gallery-p">Somewhere in the wilderness that surrounds Kaiserslautern, Germany</p>
 <img class="gallery-image" src="images/gallery/kaiserslautern.jpg" alt="" />
 </div>
+
+<div class="gallery-imgbox">
+<p class="gallery-p">Eiffel Tower in Paris lit with French flag colors</p>
+<img class="gallery-image" src="images/gallery/me_tower.jpg" alt="" />
+</div>
+
+<div class="gallery-imgbox">
+<p class="gallery-p">At TU Kaiserslautern, Germany</p>
+<img class="gallery-image" src="images/gallery/me_kl.jpg" alt="" />
+</div>
 ---
