@@ -1,10 +1,10 @@
 - name: "Contact"
   link: "#contact"
 
-- name: "Resume"
-  link: "CV-Europass-20171201-Yaseen-EN.pdf"
+- name: "CV"
+  link: "Muhammad_Yaseen_CV.pdf"
 
-- name: "Gallery"
+- name: "Photos"
   link: "gallery"
 
 - name: "Blog"
