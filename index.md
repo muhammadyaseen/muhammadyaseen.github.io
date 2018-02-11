@@ -147,6 +147,11 @@ I did following online courses to enhance my knowledge of Machine Learning and d
 | Won Scholarship awarded by Hamdard Foundation for College studies, 2011-2012
 | Cash Prize by Board of Secondary Education, Karachi (12th Position in city).
 
+## Opensource Contribution
+
+* [Apache Flume Plugins](https://github.com/muhammadyaseen/flume-plugins) - (author)
+* [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - (contributor)
+
 ## I have programming experience in:
 
 * Python, Java, C/C++, C#
