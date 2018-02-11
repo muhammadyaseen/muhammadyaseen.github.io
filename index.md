@@ -4,11 +4,11 @@ layout: default
 
 <img class="profile-picture" src="yaseen.jpg">
 
-I am Muhammad Yaseen, currently working as a Machine Learning Engineer at [PureVPN](http://www.purevpn.com) - a Cyber Security company (via [Disrupt](http://www.disrupt.com/platform)). I did my bachelors in Computer and Information Systems Engineering from NED University of Engineering and Technology, Pakistan.
+I am Muhammad Yaseen, currently working as a Machine Learning Engineer at [Gaditek](http://www.gaditek.com) - a Cyber Security company. I did my Bachelors in Computer and Information Systems Engineering from NED University of Engineering and Technology, Pakistan.
 
 ## Research Interests
 
-My chief interest is in architecting intelligent data-driven systems that are capable of learning and adaptation. I work on industry scale systems that use Big Data to power various Machine Learning (ML) applications. I have worked on Big Data and ML pipelines, starting from the data collection phase and ending at deployment and testing in the wild.
+My chief interest is in designing intelligent systems that are capable of learning and adaptation. I study algorithms that learn from structured and unstructured data, environment, labeled examples, expert behavior in an attempt to act in an artificially intelligent way. I have also worked on developing Big Data and ML pipelines and software infrastructure for Machine Learning.
 
 ----------------|-----------------------------
 Research Areas  | <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
@@ -169,7 +169,7 @@ I did following online courses to enhance my knowledge of Machine Learning and d
 * History (Contemporary, Medieval, Antiquity)
 * Philosophy
 * Amateur Astronomy, [Astronomy Society](https://www.facebook.com/KarachiAstronomy/)
-* Literature, Reading ([2016](https://yaseenx.wordpress.com/2017/01/21/what-i-read-in-2016/), [2017](#)), Writing ([Blog](http://yaseenx.wordpress.com))
+* Literature, Reading ([2016](https://yaseenx.wordpress.com/2017/01/21/what-i-read-in-2016/), [2017](https://yaseenx.wordpress.com/2018/02/11/what-i-read-in-2017/)), Writing ([Blog](http://yaseenx.wordpress.com))
 
 <a name="contact" />
 ## Contact
