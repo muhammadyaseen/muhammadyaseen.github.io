@@ -126,8 +126,9 @@ Rich Internet Applications using Google Web Toolkit (Java)
 I did following online courses to enhance my knowledge of Machine Learning and data analytics platforms
 
 |-------------------
-|Neural Networks and Deep Learning <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/records/JFCDJRZTFEGF    "><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Neural Networks and Deep Learning <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/records/JFCDJRZTFEGF"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Improving Deep Neural Networks <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/records/QAU637EFNMUX"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Structuring Machine Learning Projects <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/certificate/DS946XD4BCRL"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Machine Learning by Andrew Ng <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/records/3FQ2F8AHTNL2"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Bayesian Statistics: From Concepts to Data Analysis <a class="ext-link-a" href="https://www.coursera.org/learn/bayesian-statistics"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Deep Learning: RNN in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a>
