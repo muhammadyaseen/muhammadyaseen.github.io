@@ -11,7 +11,7 @@ I am Muhammad Yaseen, currently working as a Machine Learning Engineer at [Gadit
 My chief interest is in designing intelligent systems that are capable of learning and adaptation. I study algorithms that learn from structured and unstructured data, environment, labeled examples, expert behavior in an attempt to act in an artificially intelligent way. I have also worked on developing Big Data and ML pipelines and software infrastructure for Machine Learning.
 
 ----------------|-----------------------------
-Research Areas  | <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
+Research Areas  | <button class="skill-badge-green">Computer Vision</button> <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
 
 #### Skills Summary
 
@@ -129,6 +129,7 @@ I did following online courses to enhance my knowledge of Machine Learning and d
 |Neural Networks and Deep Learning <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/records/JFCDJRZTFEGF"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Improving Deep Neural Networks <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/records/QAU637EFNMUX"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Structuring Machine Learning Projects <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/certificate/DS946XD4BCRL"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Convolutional Neural Networks <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/certificate/8MH6BS2CBWAN"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Machine Learning by Andrew Ng <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/records/3FQ2F8AHTNL2"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Bayesian Statistics: From Concepts to Data Analysis <a class="ext-link-a" href="https://www.coursera.org/learn/bayesian-statistics"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Deep Learning: RNN in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a>
