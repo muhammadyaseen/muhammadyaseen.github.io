@@ -126,10 +126,12 @@ Rich Internet Applications using Google Web Toolkit (Java)
 I did following online courses to enhance my knowledge of Machine Learning and data analytics platforms
 
 |-------------------
-|Neural Networks and Deep Learning <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/records/JFCDJRZTFEGF"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-|Improving Deep Neural Networks <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/records/QAU637EFNMUX"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-|Structuring Machine Learning Projects <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/certificate/DS946XD4BCRL"><img class="ext-link-img" src="./images/ext-link.png" /></a>
-|Convolutional Neural Networks <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/certificate/8MH6BS2CBWAN"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|Deep Learning Specialization (5-courses)<a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/specialization/certificate/MFP92JC5RS35"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|01. Neural Networks and Deep Learning <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/certificate/CTBBVNEYBBCY"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|02. Improving Deep Neural Networks <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/certificate/JRU2P65LKY4P"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|03. Structuring Machine Learning Projects <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/certificate/DS946XD4BCRL"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|04. Convolutional Neural Networks <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/certificate/8MH6BS2CBWAN"><img class="ext-link-img" src="./images/ext-link.png" /></a>
+|05. Sequence Models <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/certificate/XFZR2YJU5MTY"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Machine Learning by Andrew Ng <a class="ext-link-a" href="https://www.coursera.org/account/accomplishments/records/3FQ2F8AHTNL2"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Bayesian Statistics: From Concepts to Data Analysis <a class="ext-link-a" href="https://www.coursera.org/learn/bayesian-statistics"><img class="ext-link-img" src="./images/ext-link.png" /></a>
 |Deep Learning: RNN in Python <a class="ext-link-a" href="https://www.udemy.com/deep-learning-recurrent-neural-networks-in-python"><img class="ext-link-img" src="./images/ext-link.png" /></a>
@@ -169,14 +171,14 @@ I did following online courses to enhance my knowledge of Machine Learning and d
 
 ## Big Data Tools I have worked with
 
-* Apache Hadoop, Apache Spark, Apache Flume
+* Apache Hadoop, Apache Spark
+* Apache Hive, Apache Flume
 * Elasticsearch and Kibana
 
 
 ## Other Interests
 
-* History (Contemporary, Medieval, Antiquity)
-* Philosophy
+* Philosophy and History (Contemporary, Medieval, Antiquity)
 * Amateur Astronomy, [Astronomy Society](https://www.facebook.com/KarachiAstronomy/)
 * Literature, Reading ([2016](https://yaseenx.wordpress.com/2017/01/21/what-i-read-in-2016/), [2017](https://yaseenx.wordpress.com/2018/02/11/what-i-read-in-2017/)), Writing ([Blog](http://yaseenx.wordpress.com))
 
@@ -184,4 +186,4 @@ I did following online courses to enhance my knowledge of Machine Learning and d
 ## Contact
 
 * mohammad_yaseen13@live.com
-* [@nisaydhm](twitter.com/nisaydhm)
+* My [LinkedIn profile]()
