@@ -21,6 +21,18 @@ ML/DL Frameworks      | <button class="skill-badge-blue">Keras</button> <button 
 Big Data        | <button class="skill-badge-blue">Apache Hadoop</button> <button class="skill-badge-blue">Apache Spark</button> <button class="skill-badge-blue">Apache Flume</button> <button class="skill-badge-blue">Apache Hive</button>
 Linux        | <button class="skill-badge-blue">CentOS</button> <button class="skill-badge-blue">Ubuntu</button> <button class="skill-badge-blue">LinuxMint</button>
 
+## Current
+### Universität des Saarlandes, Saarbrücken, Germany
+<img style="width: 170px; height: 50px;" src="./images/logo_uds.png">
+
+<span class="jobposition">Studying MS Computer Science (Apr 2019 - )</span>
+
+### Internation Max Plank Research Scholar, Max-Plank Institüt für Informatik, Saarbrücken, Germany
+<img style="width: 170px; height: 50px;" src="./images/mpiinf.png">
+
+<span class="jobposition">Awarded International Max Planck Research School Scholarship</span>
+
+
 ## Research Experience
 ### TU Kaiserslautern / German Research Center for AI, Kaiserslautern, Germany
 <img style="width: 170px; height: 50px;" src="./images/tu_kaiserslautern.png">
