@@ -4,14 +4,14 @@ layout: default
 
 <img class="profile-picture" src="yaseen.jpg">
 
-I am Muhammad Yaseen, currently working as a Machine Learning Engineer at [Gaditek](http://www.gaditek.com) - a Cyber Security company. I did my Bachelors in Computer and Information Systems Engineering from NED University of Engineering and Technology, Pakistan.
+I am Muhammad Yaseen, currently studying MS Computer Science at Saarland University. I have also been awarded Internation Max Plank Research Scholarship by Max-Plank Institüt für Informatik. In the past I have worked as Machine Learning Engineer at [Gaditek](http://www.gaditek.com) - a Cyber Security company. I did my Bachelors in Computer and Information Systems Engineering from NED University of Engineering and Technology, Pakistan.
 
 ## Research Interests
 
-My chief interest is in designing intelligent systems that are capable of learning and adaptation. I study algorithms that learn from structured and unstructured data, environment, labeled examples, expert behavior in an attempt to act in an artificially intelligent way. I have also worked on developing Big Data and ML pipelines and software infrastructure for Machine Learning.
+I like to study intelligent systems that are capable of learning and adaptation. I study algorithms that learn from structured and unstructured data, environment, labeled examples, and expert demonstration in an attempt to act intelligently. I have also worked on developing Big Data and ML pipelines and software infrastructure for Machine Learning.
 
 ----------------|-----------------------------
-Research Areas  | <button class="skill-badge-green">Computer Vision</button> <button class="skill-badge-green">Artificial Intelligence</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button>
+Research Areas  | <button class="skill-badge-green">Computer Vision</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button> <button class="skill-badge-green">Artificial Intelligence</button>
 
 #### Skills Summary
 
@@ -31,7 +31,9 @@ Linux        | <button class="skill-badge-blue">CentOS</button> <button class="s
 <img style="width: 170px; height: 50px;" src="./images/mpiinf.png">
 
 <span class="jobposition">Awarded International Max Planck Research School Scholarship</span>
-
+<br />
+<br />
+<img style="width: 340px; height: 350px;" src="./images/me_mpi_small.jpg">
 
 ## Research Experience
 ### TU Kaiserslautern / German Research Center for AI, Kaiserslautern, Germany
