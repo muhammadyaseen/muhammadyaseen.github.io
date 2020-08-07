@@ -59,7 +59,7 @@ As part of my project study, I gave following 2 presentations:
 
 [Smart Irrigation Systems - Hardware Architecture](https://www.slideshare.net/MuhammadYaseenAftab1/smart-irrigation-system-hardware-architecture-for-warm-project) - A presentation I gave at 10th Workshop on Field and Assistive Robotics [(WFAR 10)](https://agrosy.informatik.uni-kl.de/en/conferences/wfar/wfar10/) at Schloss Dagstuhl in Wadern, Germany.
 
-### Research Center for AI, NED University
+### Research Center for AI (now NCAI), NED University
 
 <img style="width: 90px; height: 60px;" src="./images/rcai.jpg">
 <img style="width: 90px; height: 60px;" src="./images/ned.png">
@@ -68,12 +68,12 @@ As part of my project study, I gave following 2 presentations:
 
 ---
 
-Supervisor: Dr. Muhammad Khurram ([NED UET](http://www.neduet.edu.pk/cise/mkhurram.html) / [RCAI](http://rcai.pk/ResearchCenterAI/ourteam/director.html))
+Supervisor: Dr. Muhammad Khurram ([NED UET](https://cis.neduet.edu.pk/mkhurram)
 
-I was among the first members of newly formed RCAI established at NED University. At RCAI I worked mainly on projects leveraging the Internet of Things (IoT) technology.
+At RCAI I worked mainly on projects leveraging the Internet of Things (IoT) technology.
 
-* **Smart Agriculture** [(Project Link)](http://rcai.pk/ResearchCenterAI/project/pp1.html): In this German Academic Exchange Service (DAAD) funded project, as part of hardware design team I worked on several prototypes based on different Arduino and custom boards. (weblink)
-* **Smart Warehouse** [(Project Link)](http://rcai.pk/ResearchCenterAI/project/p4.html): In this project I worked on a device which helps warehouse workers avoid accidental injury-causing encounters with automated heavy-machinery and tools. My work included writing code **C/C++** for hardware interfacing.
+* **Smart Agriculture**: In this German Academic Exchange Service (DAAD) funded project, as part of hardware design team I worked on several prototypes based on different Arduino and custom boards. (weblink)
+* **Smart Warehouse**: In this project I worked on a device which helps warehouse workers avoid accidental injury-causing encounters with automated heavy-machinery and tools. My work included writing code **C/C++** for hardware interfacing.
 
 <img style="width: 340px; height: 255px;" src="./images/warehouse_device.png">
 
@@ -81,7 +81,7 @@ I was among the first members of newly formed RCAI established at NED University
 
 Project presentation: [A Smart Safety Gadget for Avoiding Accidents in Warehouse Environment](https://www.slideshare.net/MuhammadYaseenAftab1/a-smart-safety-gadget-for-avoiding-accidents-in-warehouse-environment)
 
-* **Oximeter** [(Project Link)](http://rcai.pk/ResearchCenterAI/project/p8.html): In this project I worked on a Bluetooth enabled low-power oximeter which measures blood-oxygen level and heart rate. My responsibilities included writing code in **C/C++** for interfacing the hardware components. I also developed an Android app **Java** for operating device via smartphone.
+* **Oximeter**: In this project I worked on a Bluetooth enabled low-power oximeter which measures blood-oxygen level and heart rate. My responsibilities included writing code in **C/C++** for interfacing the hardware components. I also developed an Android app **Java** for operating device via smartphone.
 
 <img style="width: 340px; height: 255px;" src="./images/oxi_pres.jpg">
 
@@ -181,7 +181,7 @@ I did following online courses to enhance my knowledge of Machine Learning and d
 
 ## Machine Learning Tools I have worked with
 
-* Keras, Tensorflow, SciKit, Spark MLLib
+* Keras, PyTorch, SciKit, Spark MLLib
 
 ## Big Data Tools I have worked with
 
@@ -192,7 +192,7 @@ I did following online courses to enhance my knowledge of Machine Learning and d
 
 ## Other Interests
 
-* Philosophy and History (Contemporary, Medieval, Antiquity)
+* Philosophy and (Pre)History
 * Amateur Astronomy, [Astronomy Society](https://www.facebook.com/KarachiAstronomy/)
 * Literature, Reading ([2016](https://yaseenx.wordpress.com/2017/01/21/what-i-read-in-2016/), [2017](https://yaseenx.wordpress.com/2018/02/11/what-i-read-in-2017/)), Writing ([Blog](http://yaseenx.wordpress.com))
 
@@ -200,4 +200,3 @@ I did following online courses to enhance my knowledge of Machine Learning and d
 ## Contact
 
 * mohammad_yaseen13@live.com
-* My [LinkedIn profile]()
