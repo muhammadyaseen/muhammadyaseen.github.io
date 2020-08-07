@@ -6,18 +6,18 @@ layout: default
 
 I am Muhammad Yaseen, currently studying MS Computer Science at Saarland University. I have also been awarded Internation Max Plank Research Scholarship by Max-Plank Institüt für Informatik. In the past I have worked as Machine Learning Engineer at [Gaditek](http://www.gaditek.com) - a Cyber Security company. I did my Bachelors in Computer and Information Systems Engineering from NED University of Engineering and Technology, Pakistan.
 
-## Research Interests
+## Academic Interests
 
-I like to study intelligent systems that are capable of learning and adaptation. I study algorithms that learn from structured and unstructured data, environment, labeled examples, and expert demonstration in an attempt to act intelligently. I have also worked on developing Big Data and ML pipelines and software infrastructure for Machine Learning.
+I like to study information processing systems that are capable of learning, adaptation, and reasoning from structured or unstructured data, environment, labeled examples, and expert demonstration. I have also worked on developing software infrastructure for Big Data and Machine Learning pipelines.
 
 ----------------|-----------------------------
-Research Areas  | <button class="skill-badge-green">Computer Vision</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Deep Learning</button> <button class="skill-badge-green">Artificial Intelligence</button>
+Interests | <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Information Processing Systems</button> <button class="skill-badge-green">AI</button>
 
 #### Skills Summary
 
 ----------------|-----------------------------
-Programming     | <button class="skill-badge-blue">Python</button> <button class="skill-badge-blue">C/C++</button> <button class="skill-badge-blue">Java</button> <button class="skill-badge-blue">C#</button> <button class="skill-badge-blue">PHP</button> <button class="skill-badge-blue">VCS (Git)</button>
-ML/DL Frameworks      | <button class="skill-badge-blue">Keras</button> <button class="skill-badge-blue">Tensorflow</button> <button class="skill-badge-blue">SciKit</button> <button class="skill-badge-blue">Spark MLLib</button>
+Programming     | <button class="skill-badge-blue">Python</button> <button class="skill-badge-blue">C/C++</button> <button class="skill-badge-blue">Java</button> <button class="skill-badge-blue">C#</button>  <button class="skill-badge-blue">VCS (Git)</button>
+ML/DL Frameworks      | <button class="skill-badge-blue">Keras</button> <button class="skill-badge-blue">PyTorch</button> <button class="skill-badge-blue">SciKit</button> <button class="skill-badge-blue">Spark MLLib</button>
 Big Data        | <button class="skill-badge-blue">Apache Hadoop</button> <button class="skill-badge-blue">Apache Spark</button> <button class="skill-badge-blue">Apache Flume</button> <button class="skill-badge-blue">Apache Hive</button>
 Linux        | <button class="skill-badge-blue">CentOS</button> <button class="skill-badge-blue">Ubuntu</button> <button class="skill-badge-blue">LinuxMint</button>
 
