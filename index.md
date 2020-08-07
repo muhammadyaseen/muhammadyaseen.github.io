@@ -27,7 +27,6 @@ Linux        | <button class="skill-badge-blue">CentOS</button> <button class="s
 
 <span class="jobposition">Studying MS Computer Science (Apr 2019 - )</span>
 
-### Internation Max Plank Research Scholar, Max-Plank Institüt für Informatik, Saarbrücken, Germany
 <img style="width: 170px; height: 50px;" src="./images/mpiinf.png">
 
 <span class="jobposition">Awarded International Max Planck Research School Scholarship</span>
@@ -68,11 +67,11 @@ As part of my project study, I gave following 2 presentations:
 
 ---
 
-Supervisor: Dr. Muhammad Khurram ([NED UET](https://cis.neduet.edu.pk/mkhurram)
+Supervisor: Dr. Muhammad Khurram ([NED UET](https://cis.neduet.edu.pk/mkhurram))
 
 At RCAI I worked mainly on projects leveraging the Internet of Things (IoT) technology.
 
-* **Smart Agriculture**: In this German Academic Exchange Service (DAAD) funded project, as part of hardware design team I worked on several prototypes based on different Arduino and custom boards. (weblink)
+* **Smart Agriculture**: In this German Academic Exchange Service (DAAD) funded project, as part of hardware design team I worked on several prototypes based on different Arduino and custom boards.
 * **Smart Warehouse**: In this project I worked on a device which helps warehouse workers avoid accidental injury-causing encounters with automated heavy-machinery and tools. My work included writing code **C/C++** for hardware interfacing.
 
 <img style="width: 340px; height: 255px;" src="./images/warehouse_device.png">
