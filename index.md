@@ -92,7 +92,7 @@ Project presentation: [A Smart Safety Gadget for Avoiding Accidents in Warehouse
 <img style="width: 170px; height: 50px;" src="./images/gaditek.jpg">
 <img style="width: 170px; height: 50px;" src="./images/pure_vpn.png">
 
-<span class="jobposition">Machine Learning Engineer (December 2016 - Present)</span>
+<span class="jobposition">Machine Learning Engineer (December 2016 - March 2019)</span>
 
 ---
 Achievements:
