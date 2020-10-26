@@ -2,16 +2,17 @@
 layout: default
 ---
 
-<img class="profile-picture" src="yaseen.jpg">
+<img class="profile-picture" src="yaseen-mug-20200115-150x150.png">
 
-I am Muhammad Yaseen, currently studying MS Computer Science at Saarland University. I have also been awarded Internation Max Plank Research Scholarship by Max-Plank Institüt für Informatik. In the past I have worked as Machine Learning Engineer at [Gaditek](http://www.gaditek.com) - a Cyber Security company. I did my Bachelors in Computer and Information Systems Engineering from NED University of Engineering and Technology, Pakistan.
+Hi! I am Yaseen, currently studying MS Computer Science at Saarland University and working as Research Assistant with Prof. Jilles Vreeken. I have also been awarded Internation Max Plank Research Scholarship by Max-Plank Institüt für Informatik. 
+In the past I have worked as Machine Learning Engineer at [Gaditek](http://www.gaditek.com) - a Cyber Security company. I did my Bachelors in Computer and Information Systems Engineering from NED University of Engineering and Technology, Pakistan.
 
 ## Academic Interests
 
 I like to study information processing systems that are capable of learning, adaptation, and reasoning from structured or unstructured data, environment, labeled examples, and expert demonstration. I have also worked on developing software infrastructure for Big Data and Machine Learning pipelines.
 
 ----------------|-----------------------------
-Interests | <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">Information Processing Systems</button> <button class="skill-badge-green">AI</button>
+Interests | <button class="skill-badge-green">Algorithmic Information Processing</button> <button class="skill-badge-green">Machine Learning</button> <button class="skill-badge-green">AI</button> 
 
 #### Skills Summary
 
@@ -19,9 +20,17 @@ Interests | <button class="skill-badge-green">Machine Learning</button> <button 
 Programming     | <button class="skill-badge-blue">Python</button> <button class="skill-badge-blue">C/C++</button> <button class="skill-badge-blue">Java</button> <button class="skill-badge-blue">C#</button>  <button class="skill-badge-blue">VCS (Git)</button>
 ML/DL Frameworks      | <button class="skill-badge-blue">Keras</button> <button class="skill-badge-blue">PyTorch</button> <button class="skill-badge-blue">SciKit</button> <button class="skill-badge-blue">Spark MLLib</button>
 Big Data        | <button class="skill-badge-blue">Apache Hadoop</button> <button class="skill-badge-blue">Apache Spark</button> <button class="skill-badge-blue">Apache Flume</button> <button class="skill-badge-blue">Apache Hive</button>
-Linux        | <button class="skill-badge-blue">CentOS</button> <button class="skill-badge-blue">Ubuntu</button> <button class="skill-badge-blue">LinuxMint</button>
 
 ## Current
+### Exploratory Data Analysis Group (Oct 2020 -), CISPA-Helmholtz, Germany
+<span class="jobposition">Research Assistant</span>
+
+---
+- Advisor and Supreme Commander: [Prof. Jilles Vrekeen](https://people.mmci.uni-saarland.de/~jilles/) 
+- [EDA Group website](https://eda.mmci.uni-saarland.de/) 
+
+I'm currently exploring methods and techniques for anomaly detection in sequences ranging from simple univariate event sequences to complex multivariate event sequences over several attributes. This work builds on [earlier methods](https://eda.mmci.uni-saarland.de/prj/) proposed by ther group. 
+
 ### Universität des Saarlandes, Saarbrücken, Germany
 <img style="width: 170px; height: 50px;" src="./images/logo_uds.png">
 
