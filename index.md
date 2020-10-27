@@ -23,6 +23,8 @@ Big Data        | <button class="skill-badge-blue">Apache Hadoop</button> <butto
 
 ## Current
 ### Exploratory Data Analysis Group (Oct 2020 -), CISPA-Helmholtz, Germany
+<img style="width: 170px; height: 50px;" src="./images/cispa_logo.png">
+
 <span class="jobposition">Research Assistant</span>
 
 ---
