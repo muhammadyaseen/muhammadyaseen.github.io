@@ -1,5 +1,5 @@
 - name: "Contact"
-  link: "#contact"
+  link: "http://www.myaseen.me"
 
 - name: "CV"
   link: "Muhammad_Yaseen_CV.pdf"
@@ -7,5 +7,5 @@
 - name: "Photos"
   link: "gallery"
 
-- name: "Blog"
-  link: "http://www.yaseenx.wordpress.com"
+- name: "Website"
+  link: "http://www.myaseen.me"
